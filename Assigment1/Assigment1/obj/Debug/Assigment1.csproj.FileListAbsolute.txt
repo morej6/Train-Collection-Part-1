@@ -1,0 +1,5 @@
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\Assigment1\Assigment1\bin\Debug\Assigment1.dll
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\Assigment1\Assigment1\bin\Debug\Assigment1.pdb
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\Assigment1\Assigment1\obj\Debug\Assigment1.dll
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\Assigment1\Assigment1\obj\Debug\Assigment1.pdb
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\Assigment1\Assigment1\obj\Debug\Assigment1.csprojResolveAssemblyReference.cache
